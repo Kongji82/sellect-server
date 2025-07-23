@@ -22,6 +22,13 @@
 <br>
 <br>
 
+## ERD
+<img width="1051" height="567" alt="스크린샷 2025-07-23 오후 8 13 28" src="https://github.com/user-attachments/assets/50c7a478-b893-4e83-aea3-eab6aa1f2e76" />
+
+
+## 아키텍처
+<img width="1067" height="608" alt="스크린샷 2025-07-23 오후 8 12 30" src="https://github.com/user-attachments/assets/75953229-8e6c-4997-9eb0-42d6003a9159" />
+
 ## 📌 담당 기능
 - **사용자 계정 인증 & 인가:** JWT기반 인증 & 인가 시스템
 - **선착순 쿠폰:** 특정 상품에 대한 선착순 쿠폰 발급 및 다운로드
